@@ -10,5 +10,6 @@ public class shiyu {
         System.out.println("你好");
 
         System.out.println("你是大白痴");
+        System.out.println("你才是");
     }
 }
